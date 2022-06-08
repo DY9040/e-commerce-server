@@ -19,7 +19,6 @@ Clone or download zip files. Install Node and MYSQL, navigate to the root direct
 ## Usage
 In the root directory start up the MYSQL Shell using mysql -u root -p, enter your credentials. type SOURCE db/schema.sql then type quit. Type NPM run Seed, then NPM start. You will be able to interact with the database through insomnia 
 https://clipchamp.com/watch/nHfDZJASdkl
-![readmevideo](https://clipchamp.com/watch/nHfDZJASdkl "Readmevideo")
 
 ## License
 
